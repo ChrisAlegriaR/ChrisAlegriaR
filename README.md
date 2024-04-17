@@ -4,7 +4,6 @@
 Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río
 ](https://utsjr.edu.mx/).
 
-
 <!-- Social Media Section -->
 [![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
 [![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-1a9646?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
@@ -12,8 +11,18 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 [![Instagram Badge](https://img.shields.io/badge/-@chris.alegria484-9f32c3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chris.alegria484/)](https://www.instagram.com/chris.alegria484/)
 [![Discord Badge](https://img.shields.io/badge/-@xgamer484-8c9eff?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/922658473748070430)](https://discordapp.com/users/922658473748070430)
 [![Steam Badge](https://img.shields.io/badge/-@☢XGamer484-0d2147?style=flat-square&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/id/XGamer484/)](https://steamcommunity.com/id/XGamer484/)
-[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](christian.alegriar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](christian.alegriar@gmail.com)
 
+
+<!-- Facts Section -->
+<h2>🍂 Facts About Me</h2>
+<ul>
+<li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
+<li>✨ I love <strong>programming</strong>,<strong> listen music</strong>,<strong> playing video games</strong> and <strong>watching series/anime.</strong></li>
+<li>🎼 My favorite bands and artist are <strong>Rammstein</strong>, <strong>Coldplay</strong>, <strong>Queen</strong> and <strong>Alfredo Olivas</strong></li>
+<li>📝 I like to always learn new things and strive for perfection in what I do.</li>
+<li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.</li>
+</ul>
 
 <!-- Spotify Activity Section -->
 <p align="center">
@@ -24,7 +33,6 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fdae4lll3yaxymukcfossty&count=5&width=350;">
 </p>
 
-<!---
-ChrisAlegria/ChrisAlegria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!---ChrisAlegria/ChrisAlegria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.--->
