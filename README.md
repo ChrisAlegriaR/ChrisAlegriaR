@@ -4,7 +4,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 ](https://utsjr.edu.mx/).
 
 <p>
-  <a href="www.linkedin.com/in/christianalegriaruiz">
+  <a href="https://www.linkedin.com/in/christianalegriaruiz/">
     <img src="https://img.shields.io/badge/-ChrisAlegria-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=LinkedIn&amp;link=https://ChrisAlegria" alt="Website Badge">
   </a> 
   <a href="https://medium.com/@serbis">
