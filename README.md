@@ -5,7 +5,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 
 <p>
   <a href="www.linkedin.com/in/christianalegriaruiz">
-    <img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat             square&amp;labelColor=4E69C8&amp;logo=LinkedIn&amp;link=https://stanleylim.me" alt="Website Badge">
+    <img src="https://img.shields.io/badge/-ChrisAlegria-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=LinkedIn&amp;link=https://ChrisAlegria" alt="Website Badge">
   </a> 
   <a href="https://medium.com/@serbis">
     <img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge">
