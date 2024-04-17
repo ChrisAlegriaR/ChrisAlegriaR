@@ -1,6 +1,6 @@
 <h2>Hey There👋, I'm Chris.</h2>
 
-Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río.
+Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río
 ](https://utsjr.edu.mx/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
