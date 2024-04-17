@@ -7,9 +7,9 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 [![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-1a9646?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
 [![FaceBook Badge](https://img.shields.io/badge/-@ChrisAlegria-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ChrisAlegriaRuiz/)](https://www.facebook.com/ChrisAlegriaRuiz/)
 [![Instagram Badge](https://img.shields.io/badge/-@chris.alegria484-9f32c3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chris.alegria484/)](https://www.instagram.com/chris.alegria484/)
-[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](christian.alegriar@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-@xgamer484-8c9eff?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/922658473748070430)](https://discordapp.com/users/922658473748070430)
 [![Steam Badge](https://img.shields.io/badge/-@☢XGamer484-0d2147?style=flat-square&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/id/XGamer484/)](https://steamcommunity.com/id/XGamer484/)
-
+[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](christian.alegriar@gmail.com)
 
 <!---
 ChrisAlegria/ChrisAlegria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
