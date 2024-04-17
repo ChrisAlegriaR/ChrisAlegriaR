@@ -18,7 +18,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <h2>🍂 Facts About Me</h2>
 <ul>
 <li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
-<li>✨ I love <strong>programming</strong>,<strong> listen music</strong>,<strong> playing video games</strong> and <strong>watching series/anime.</strong></li>
+<li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> playing video games</strong> and <strong>watching series/anime.</strong></li>
 <li>🎼 My favorite bands and artist are <strong>Rammstein</strong>, <strong>Coldplay</strong>, <strong>Queen</strong> and <strong>Alfredo Olivas</strong></li>
 <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
 <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.</li>
