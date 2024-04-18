@@ -114,7 +114,7 @@ Windows                          ███████████████�
 
 
 <!-- Spotify Activity Section -->
-<h2>🎼 My Spotify Activity and Status</h2>
+<h2>🎸 My Spotify Activity and Status</h2>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21fdae4lll3yaxymukcfossty&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21fdae4lll3yaxymukcfossty&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
