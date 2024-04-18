@@ -26,7 +26,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 
 
 <!-- Tools Section -->
-<h2>🚀 Tools, Languages and Environments I have used</h2>
+<h2>🚀 Languages, Environments and Tools I have used</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
@@ -35,25 +35,25 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="kotlin" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudiocode" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="25" height="25" />
 </p>
 
