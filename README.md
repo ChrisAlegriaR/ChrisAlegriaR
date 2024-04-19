@@ -85,7 +85,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 </p>
 
 <!-- Personal Stats Section -->
-<h2>📊 My Monthly Status</h2>
+<h2>📊 My Monthly Stats</h2>
 
 ```text
 🏃 Activities:
