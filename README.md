@@ -22,7 +22,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <ul>
 <li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
 <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
-<li>🎶 My favorite bands and artist are <strong>Rammstein</strong>, <strong>Coldplay</strong>, <strong>Queen</strong> and <strong>Alfredo Olivas</strong></li>
+<li>🎶 My favorite bands and artist are <strong>Rammstein</strong>, <strong>Coldplay</strong>, <strong>Queen</strong>, <strong>Alfredo Olivas</strong> y <strong>Julion Alvárez</strong></li>
 <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
 <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.</li>
 </ul>
@@ -89,10 +89,19 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 
 ```text
 🏃 Activities:
-Studing                          █████████████░░░░░░░░░░░░  50% 
-Programming                      ████████░░░░░░░░░░░░░░░░░  30%
+Studing                          ██████████░░░░░░░░░░░░░░░  40% 
+Programming                      █████░░░░░░░░░░░░░░░░░░░░  20%
+Music                            █████░░░░░░░░░░░░░░░░░░░░  20%
 Gaming                           ██░░░░░░░░░░░░░░░░░░░░░░░  10%
 Visual Entertainment             ██░░░░░░░░░░░░░░░░░░░░░░░  10%
+```
+
+```text
+🎸 Music:
+Rammstein                        █████████████░░░░░░░░░░░░  50% 
+Julion Alvárez                   ██████░░░░░░░░░░░░░░░░░░░  25%
+Coldplay                         ████░░░░░░░░░░░░░░░░░░░░░  15%
+Alfredo Olivas                   ██░░░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 
 ```text
