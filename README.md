@@ -25,7 +25,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <li>🎶 My favorite bands and artist are   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rammstein_logo_3.svg/2560px-Rammstein_logo_3.svg.png" width="86"/>, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Coldplay_logo.png" width="70"/>, 
-  <img src="https://www.bhmpics.com/downloads/logo-queen/15.640px-queen_logo.png" width="40"/>, <strong>Alfredo Olivas</strong> y <strong>Julion Alvárez</strong>
+  <img src="https://www.bhmpics.com/downloads/logo-queen/15.640px-queen_logo.png" width="40"/>, <strong>Alfredo Olivas</strong> and <strong>Julion Alvárez</strong>
 </li>
 <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
 <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.  
