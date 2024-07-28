@@ -13,7 +13,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 [![Threads Badge](https://img.shields.io/badge/-@chris.alegriar-A27E00?style=flat-square&logo=Threads&logoColor=white&link=https:https://www.threads.net/@chris.alegriar)](https://www.threads.net/@chris.alegriar)
 [![Discord Badge](https://img.shields.io/badge/-@xgamer484-8c9eff?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/922658473748070430)](https://discordapp.com/users/922658473748070430)
 [![Steam Badge](https://img.shields.io/badge/-@☢XGamer484-0d2147?style=flat-square&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/id/XGamer484/)](https://steamcommunity.com/id/XGamer484/)
-[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](mailto:christian.alegriar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-B51C1C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](mailto:christian.alegriar@gmail.com)
 <br>
 <br>
 
