@@ -27,7 +27,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rammstein_logo_3.svg/2560px-Rammstein_logo_3.svg.png" width="86" alt="Rammstein Logo"/></a>,
     <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Coldplay_logo.png" width="70" alt="Coldplay Logo"/></a>,
     <a href="https://www.queenonline.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://www.bhmpics.com/downloads/logo-queen/15.640px-queen_logo.png" width="40" alt="Queen Logo"/></a>, 
-    <strong>Alfredo Olivas</strong> and <strong>Julión Álvarez</strong>
+    <strong>Los Plebes del Rancho</strong> and <strong>Alfredo Olivas</strong>
   <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
   <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.  
   </li>
@@ -81,7 +81,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="25" height="25" />
   <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a?h=464" alt="miro" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
   <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="office" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="25" height="25" />
   <img src="https://www.sysarb.se/wp-content/uploads/2023/04/Google-workspace-logotype.png" alt="Google Docs" width="45" height="20" />
@@ -117,7 +117,7 @@ Visual Entertainment             ██░░░░░░░░░░░░░�
 Rammstein                        █████████████░░░░░░░░░░░░  50% 
 Coldplay                         ██████░░░░░░░░░░░░░░░░░░░  30%
 Alfredo Olivas                   ██░░░░░░░░░░░░░░░░░░░░░░░  10%
-Julion Alvárez                   ██░░░░░░░░░░░░░░░░░░░░░░░  10%
+Los Plebes del Rancho            ██░░░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 
 ```text
