@@ -27,7 +27,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rammstein_logo_3.svg/2560px-Rammstein_logo_3.svg.png" width="86" alt="Rammstein Logo"/></a>,
     <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Coldplay_logo.png" width="70" alt="Coldplay Logo"/></a>,
     <a href="https://www.queenonline.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="https://www.bhmpics.com/downloads/logo-queen/15.640px-queen_logo.png" width="40" alt="Queen Logo"/></a>, 
-    <strong>Los Plebes del Rancho</strong> and <strong>Alfredo Olivas</strong>
+    <strong>Los Plebes del Rancho</strong> and <strong>Alfredo Olivas</strong>.
   <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
   <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.  
   </li>
