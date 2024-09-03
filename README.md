@@ -72,8 +72,9 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="25" height="25" />
   <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="LaTeX" width="25" height="25" />
-  <img src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP_400x400.png" color="white" alt="overleaf" width="25" height="25" />
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" color="white" alt="overleaf" width="22" height="25" />
   <img src="https://download.id/wp-content/uploads/2014/10/virtualbox.png" alt="VBox" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" color="white" alt="Blender" width="22" height="25" />
   <img src="https://caders-kuet.github.io/assets/images/sw_logo.png" color="white" alt="SolidWorks" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" />
