@@ -85,7 +85,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
   <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="office" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="25" height="25" />
-  <img src="https://www.sysarb.se/wp-content/uploads/2023/04/Google-workspace-logotype.png" alt="Google Docs" width="45" height="20" />
+  <img src="https://logos-world.net/wp-content/uploads/2023/12/Google-Workspace-Symbol.png" alt="Google Workspace" width="45" height="25" />
 </p>
 <br>
 
