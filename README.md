@@ -67,6 +67,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="DBeaver" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" />
   <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="xammp" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="25" height="25"/>
