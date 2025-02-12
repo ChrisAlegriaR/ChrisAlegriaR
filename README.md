@@ -98,8 +98,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegria&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegria&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegria&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
 <br>
 </p>
 
