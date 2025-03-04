@@ -86,31 +86,56 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
       <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="25" height="25"/></a>
   <a href="https://en.wikipedia.org/wiki/NoSQL">  
     <img src="https://media-cdn.openxcell.com/wp-content/uploads/2024/01/17143433/Group-56816.webp" alt="nosql" width="23" height="23"/></a>
-  <img src="https://www.cqlcorp.com/wp-content/uploads/2020/01/cql-logo-insights.png" alt="cql" width="30" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="DBeaver" width="23" height="23"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" />
-  <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="xammp" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="25" height="25" />
-  <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="LaTeX" width="25" height="25" />
-  <img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" color="white" alt="overleaf" width="22" height="25" />
-  <img src="https://download.id/wp-content/uploads/2014/10/virtualbox.png" alt="VBox" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" color="white" alt="Blender" width="22" height="25" />
-  <img src="https://caders-kuet.github.io/assets/images/sw_logo.png" color="white" alt="SolidWorks" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" />
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" color="white" alt="PacketTracer" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="25" height="25" />
-  <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a?h=464" alt="miro" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="23" height="23" />
-  <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="office" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="24" height="24" />
-  <img src="https://logos-world.net/wp-content/uploads/2023/12/Google-Workspace-Symbol.png" alt="Google Workspace" width="45" height="25" />
+  <a href="https://cassandra.apache.org/doc/4.0/cassandra/cql/">  
+    <img src="https://www.cqlcorp.com/wp-content/uploads/2020/01/cql-logo-insights.png" alt="cql" width="30" height="25"/></a>
+  <a href="https://www.mongodb.com">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" /></a>
+  <a href="https://www.mysql.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" /></a>
+  <a href="https://cassandra.apache.org/_/index.html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="25" height="25" /></a>
+  <a href="https://www.postgresql.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" /></a>
+  <a href="https://dbeaver.io">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="DBeaver" width="23" height="23"/></a>
+  <a href="https://www.oracle.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" /></a>
+  <a href="https://www.apachefriends.org/es/index.html">
+    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="xammp" width="25" height="25" /></a>
+  <a href="https://firebase.google.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="25" height="25"/></a>
+  <a href="https://www.apache.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="25" height="25" /></a>
+  <a href="https://www.latex-project.org">
+    <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="LaTeX" width="25" height="25" /></a>
+  <a href="https://es.overleaf.com">
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" color="white" alt="overleaf" width="22" height="25" /></a>
+  <a href="https://www.virtualbox.org">
+    <img src="https://download.id/wp-content/uploads/2014/10/virtualbox.png" alt="VBox" width="25" height="25" /></a>
+  <a href="https://www.blender.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" color="white" alt="Blender" width="22" height="25" /></a>
+  <a href="https://www.solidworks.com">
+    <img src="https://caders-kuet.github.io/assets/images/sw_logo.png" color="white" alt="SolidWorks" width="25" height="25" /></a>
+  <a href="https://www.raspberrypi.com">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="25" height="25" /></a>
+  <a href="https://www.arduino.cc">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" /></a>
+  <a href="https://www.netacad.com/cisco-packet-tracer">
+    <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" color="white" alt="PacketTracer" width="25" height="25" /></a>
+  <a href="https://git-scm.com">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24" /></a>
+  <a href="https://github.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="25" height="25" /></a>
+  <a href="https://miro.com/en/">
+      <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a?h=464" alt="miro" width="23" height="23" /></a>
+  <a href="https://www.figma.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="23" height="23" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office">
+    <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="office" width="23" height="23" /></a>
+  <a href="https://www.notion.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="24" height="24" /></a>
+  <a href="https://workspace.google.com/intl/es-419_mx/business/">
+    <img src="https://logos-world.net/wp-content/uploads/2023/12/Google-Workspace-Symbol.png" alt="Google Workspace" width="45" height="25" /></a>
 </p>
 <br>
 
