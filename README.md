@@ -6,8 +6,8 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 
 
 <!-- Social Media Section -->
-[![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-0274b3?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
-[![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-3abd25?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
+[![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
+[![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-309529?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
 [![FaceBook Badge](https://img.shields.io/badge/-@ChrisAlegria-0866ff?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ChrisAlegriaR/)](https://www.facebook.com/ChrisAlegriaR/)
 [![Instagram Badge](https://img.shields.io/badge/-@chris.alegriar-d72a7e?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chris.alegriar?igsh=YzljYTk1ODg3Zg==)](https://www.instagram.com/chris.alegriar?igsh=YzljYTk1ODg3Zg==)
 [![Threads Badge](https://img.shields.io/badge/-@chris.alegriar-B58500?style=flat-square&logo=Threads&logoColor=white&link=https:https://www.threads.net/@chris.alegriar)](https://www.threads.net/@chris.alegriar)
