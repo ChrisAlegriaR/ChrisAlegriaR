@@ -1,5 +1,5 @@
 <!-- Title And Intro Section -->
-<h2><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" height="25px"> Hey There ,I'm Chris.</h2>
+<h2><img src="assets/gifs/greeting.gif" height="25px"> Hey There ,I'm Chris.</h2>
 
 Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río
 ](https://utsjr.edu.mx/).
