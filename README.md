@@ -74,7 +74,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://kotlinlang.org">  
     <img src="assets/images/tools/Kotlin.svg" alt="kotlin" width="25" height="25" /></a>
   <a href="https://www.r-project.org">
-    <img src="assets/images/tools/R" alt="r" width="25" height="25" /></a>
+    <img src="assets/images/tools/R.svg" alt="r" width="25" height="25" /></a>
   <a href="https://jupyter.org">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" /></a>
   <a href="https://code.visualstudio.com">  
