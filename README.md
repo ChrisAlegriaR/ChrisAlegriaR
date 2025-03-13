@@ -42,23 +42,23 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <h2>🚀 Languages, Frameworks, Environments and Tools I have used</h2>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img src="assets/images/tools/Html5.svg" alt="html5" width="25" height="25" /></a>
+    <img src="assets/images/tools/Html5.svg" alt="html5" width="22" height="22" /></a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="assets/images/tools/Css3.svg" alt="css3" width="25" height="25" /></a>
+    <img src="assets/images/tools/Css3.svg" alt="css3" width="22" height="22" /></a>
   <a href="https://getbootstrap.com">
     <img src="assets/images/tools/Bootstrap.svg" alt="bootstrap" width="25" height="25" /></a>
   <a href="https://react.dev">
-    <img src="assets/images/tools/React.svg" alt="react" width="25" height="25" /></a>
+    <img src="assets/images/tools/React.svg" alt="react" width="24" height="24" /></a>
   <a href="https://angular.dev">
-    <img src="assets/images/tools/Angular.svg" alt="angular-js" width="25" height="25" /></a>
+    <img src="assets/images/tools/Angular.svg" alt="angular-js" width="23" height="23" /></a>
   <a href="https://dart.dev">
-    <img src="assets/images/tools/Dart.png" alt="Dart" width="25" height="25" /></a>
+    <img src="assets/images/tools/Dart.png" alt="Dart" width="23" height="23" /></a>
   <a href="https://flutter.dev/?gclsrc=aw.ds&gad_source=1&gclid=EAIaIQobChMIqajLyaHuiwMVYCZECB1vqDzAEAAYASAAEgJjjvD_BwE">  
-    <img src="assets/images/tools/Flutter.svg" alt="flutter" width="25" height="25" /></a>
+    <img src="assets/images/tools/Flutter.svg" alt="flutter" width="22" height="22" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="assets/images/tools/C.svg" alt="c" width="25" height="25" /></a>
+    <img src="assets/images/tools/C.svg" alt="c" width="23" height="23" /></a>
   <a href="https://cpp-lang.net">
-      <img src="assets/images/tools/C++.png" alt="c++" width="22" height="25" /></a>
+      <img src="assets/images/tools/C++.png" alt="c++" width="20" height="23" /></a>
   <a href="https://www.java.com/en/">
     <img src="assets/images/tools/Java.svg" alt="java" width="25" height="25" /></a>
   <a href="https://www.javascript.com">  
@@ -66,7 +66,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.php.net">
     <img src="assets/images/tools/Php.svg" alt="php" width="25" height="25" /></a>
   <a href="https://nodejs.org/en">
-    <img src="assets/images/tools/NodeJs.svg" alt="nodejs" width="25" height="25" /></a>
+    <img src="assets/images/tools/NodeJs.svg" alt="nodejs" width="23" height="23" /></a>
   <a href="https://www.python.org">
     <img src="assets/images/tools/Python.svg" alt="python" width="25" height="25" /></a>
   <a href="https://www.typescriptlang.org">
@@ -76,51 +76,51 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.r-project.org">
     <img src="assets/images/tools/R.svg" alt="r" width="25" height="25" /></a>
   <a href="https://jupyter.org">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="24" height="24" /></a>
   <a href="https://code.visualstudio.com">  
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="visualstudioCode" width="23" height="23" /></a>
   <a href="https://visualstudio.microsoft.com/en/">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="23" height="23" /></a>
   <a href="https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMIs5rz_JjviwMVpSVECB0BABVgEAAYASAAEgL93vD_BwE&gclsrc=aw.ds">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="24" height="24" /></a>
   <a href="https://www.apache.org"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="22" height="24" /></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="21" height="23" /></a>
   <a href="https://www.oracle.com/database/technologies/appdev/sql.html">
-      <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="25" height="25"/></a>
+      <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="23" height="23"/></a>
   <a href="https://en.wikipedia.org/wiki/NoSQL">  
-    <img src="https://media-cdn.openxcell.com/wp-content/uploads/2024/01/17143433/Group-56816.webp" alt="nosql" width="23" height="23"/></a>
+    <img src="https://media-cdn.openxcell.com/wp-content/uploads/2024/01/17143433/Group-56816.webp" alt="nosql" width="22" height="22"/></a>
   <a href="https://cassandra.apache.org/doc/4.0/cassandra/cql/">  
     <img src="https://www.cqlcorp.com/wp-content/uploads/2020/01/cql-logo-insights.png" alt="cql" width="30" height="25"/></a>
   <a href="https://www.mongodb.com">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" /></a>
   <a href="https://www.mysql.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="23" height="23" /></a>
   <a href="https://cassandra.apache.org/_/index.html">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="25" height="25" /></a>
   <a href="https://www.postgresql.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="23" height="23" /></a>
   <a href="https://dbeaver.io">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="DBeaver" width="23" height="23"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" alt="DBeaver" width="22" height="22"/></a>
   <a href="https://www.oracle.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" /></a>
   <a href="https://www.apachefriends.org/es/index.html">
-    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="xammp" width="25" height="25" /></a>
+    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="xammp" width="22" height="22" /></a>
   <a href="https://firebase.google.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="25" height="25"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="23" height="23"/></a>
   <a href="https://www.apache.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="23" height="23" /></a>
   <a href="https://www.latex-project.org">
-    <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="LaTeX" width="25" height="25" /></a>
+    <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="LaTeX" width="24" height="24" /></a>
   <a href="https://es.overleaf.com">
-    <img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" color="white" alt="overleaf" width="22" height="25" /></a>
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" color="white" alt="overleaf" width="21" height="24" /></a>
   <a href="https://www.virtualbox.org">
     <img src="https://download.id/wp-content/uploads/2014/10/virtualbox.png" alt="VBox" width="25" height="25" /></a>
   <a href="https://www.blender.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" color="white" alt="Blender" width="22" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" color="white" alt="Blender" width="26" height="26" /></a>
   <a href="https://www.solidworks.com">
-    <img src="https://caders-kuet.github.io/assets/images/sw_logo.png" color="white" alt="SolidWorks" width="25" height="25" /></a>
+    <img src="https://caders-kuet.github.io/assets/images/sw_logo.png" color="white" alt="SolidWorks" width="24" height="24" /></a>
   <a href="https://www.raspberrypi.com">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspverrypi" width="24" height="24" /></a>
   <a href="https://www.arduino.cc">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" /></a>
   <a href="https://www.netacad.com/cisco-packet-tracer">
@@ -128,7 +128,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://git-scm.com">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24" /></a>
   <a href="https://github.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="25" height="25" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white" alt="github" width="26" height="26" /></a>
   <a href="https://miro.com/en/">
       <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a?h=464" alt="miro" width="23" height="23" /></a>
   <a href="https://www.figma.com">
