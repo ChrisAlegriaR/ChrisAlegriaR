@@ -24,9 +24,12 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
   <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
   <li>🎶 My favorite bands and artist are   
-     <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;"><img src="assets/images/bands and artists/Rammstein.png" width="86" alt="Rammstein Logo"/></a>,
-    <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="assets/images/bands and artists/Coldplay.png" width="70" alt="Coldplay Logo"/></a>,
-    <a href="https://www.queenonline.com/" target="_blank" style="text-decoration: none; color: inherit;"><img src="assets/images/bands and artists/Queen.png" width="40" alt="Queen Logo"/></a>, 
+     <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;">
+       <img src="assets/images/bands and artists/Rammstein.png" width="86" alt="Rammstein Logo"/></a>,
+    <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="assets/images/bands and artists/Coldplay.png" width="70" alt="Coldplay Logo"/></a>,
+    <a href="https://www.queenonline.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="assets/images/bands and artists/Queen.png" width="40" alt="Queen Logo"/></a>, 
     <strong>Los Plebes del Rancho</strong> and <strong>Alfredo Olivas</strong>.
   <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
   <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.  
@@ -39,39 +42,39 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <h2>🚀 Languages, Frameworks, Environments and Tools I have used</h2>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" /></a>
+    <img src="assets/images/tools/Html5.svg" alt="html5" width="25" height="25" /></a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" /></a>
+    <img src="assets/images/tools/Css3.svg" alt="css3" width="25" height="25" /></a>
   <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="25" height="25" /></a>
+    <img src="assets/images/tools/Bootstrap.svg" alt="bootstrap" width="25" height="25" /></a>
   <a href="https://react.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /></a>
+    <img src="assets/images/tools/React.svg" alt="react" width="25" height="25" /></a>
   <a href="https://angular.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /></a>
+    <img src="assets/images/tools/Angular.svg" alt="angular-js" width="25" height="25" /></a>
   <a href="https://dart.dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="25" height="25" /></a>
+    <img src="assets/images/tools/Dart.png" alt="Dart" width="25" height="25" /></a>
   <a href="https://flutter.dev/?gclsrc=aw.ds&gad_source=1&gclid=EAIaIQobChMIqajLyaHuiwMVYCZECB1vqDzAEAAYASAAEgJjjvD_BwE">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" /></a>
+    <img src="assets/images/tools/Flutter.svg" alt="flutter" width="25" height="25" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" /></a>
+    <img src="assets/images/tools/C.svg" alt="c" width="25" height="25" /></a>
   <a href="https://cpp-lang.net">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="22" height="25" /></a>
+      <img src="assets/images/tools/C++.png" alt="c++" width="22" height="25" /></a>
   <a href="https://www.java.com/en/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" /></a>
+    <img src="assets/images/tools/Java.svg" alt="java" width="25" height="25" /></a>
   <a href="https://www.javascript.com">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="22" height="22" /></a>
+    <img src="assets/images/tools/JavaScript.svg" alt="javascript" width="22" height="22" /></a>
   <a href="https://www.php.net">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" /></a>
+    <img src="assets/images/tools/Php.svg" alt="php" width="25" height="25" /></a>
   <a href="https://nodejs.org/en">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" /></a>
+    <img src="assets/images/tools/NodeJs.svg" alt="nodejs" width="25" height="25" /></a>
   <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" /></a>
+    <img src="assets/images/tools/Python.svg" alt="python" width="25" height="25" /></a>
   <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="22" height="22" /></a>
+    <img src="assets/images/tools/TypeScript.svg" alt="typescript" width="22" height="22" /></a>
   <a href="https://kotlinlang.org">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25" height="25" /></a>
+    <img src="assets/images/tools/Kotlin.svg" alt="kotlin" width="25" height="25" /></a>
   <a href="https://www.r-project.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="25" height="25" /></a>
+    <img src="assets/images/tools/R" alt="r" width="25" height="25" /></a>
   <a href="https://jupyter.org">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" /></a>
   <a href="https://code.visualstudio.com">  
