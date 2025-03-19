@@ -76,19 +76,19 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.r-project.org">
     <img src="assets/images/tools/R.svg" alt="r" width="25" height="25" /></a>
   <a href="https://jupyter.org">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="24" height="24" /></a>
+    <img src="assets/images/tools/Jupyter.svg" alt="jupyter" width="24" height="24" /></a>
   <a href="https://code.visualstudio.com">  
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="visualstudioCode" width="23" height="23" /></a>
+    <img src="assets/images/tools/Visual Studio Code.png" alt="visualstudioCode" width="23" height="23" /></a>
   <a href="https://visualstudio.microsoft.com/en/">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="23" height="23" /></a>
+    <img src="assets/images/tools/Visual Studio.svg" alt="visualstudio" width="23" height="23" /></a>
   <a href="https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMIs5rz_JjviwMVpSVECB0BABVgEAAYASAAEgL93vD_BwE&gclsrc=aw.ds">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="24" height="24" /></a>
+    <img src="assets/images/tools/Android Studio.svg" alt="androidstudio" width="24" height="24" /></a>
   <a href="https://www.apache.org"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="21" height="23" /></a>
+    <img src="assets/images/tools/Apache.svg" alt="netbeans" width="21" height="23" /></a>
   <a href="https://www.oracle.com/database/technologies/appdev/sql.html">
-      <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="23" height="23"/></a>
+      <img src="assets/images/tools/Oracle.svg" alt="sql" width="23" height="23"/></a>
   <a href="https://en.wikipedia.org/wiki/NoSQL">  
-    <img src="https://media-cdn.openxcell.com/wp-content/uploads/2024/01/17143433/Group-56816.webp" alt="nosql" width="22" height="22"/></a>
+    <img src="assets/images/tools/NoSql.png" alt="nosql" width="22" height="22"/></a>
   <a href="https://cassandra.apache.org/doc/4.0/cassandra/cql/">  
     <img src="https://www.cqlcorp.com/wp-content/uploads/2020/01/cql-logo-insights.png" alt="cql" width="30" height="25"/></a>
   <a href="https://www.mongodb.com">  
