@@ -66,7 +66,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.php.net">
     <img src="assets/images/tools/Php.svg" alt="Php" width="25" height="25" /></a>
   <a href="https://nodejs.org/en">
-    <img src="assets/images/tools/Node.JS.svg" alt="Node.js" width="23" height="23" /></a>
+    <img src="assets/images/tools/Node.js.svg" alt="Node.js" width="23" height="23" /></a>
   <a href="https://www.python.org">
     <img src="assets/images/tools/Python.svg" alt="Python" width="25" height="25" /></a>
   <a href="https://www.typescriptlang.org">
