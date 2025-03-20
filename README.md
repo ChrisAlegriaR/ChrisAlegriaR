@@ -110,7 +110,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.apache.org">
     <img src="assets/images/tools/Apache.svg" alt="Apache" width="23" height="23" /></a>
   <a href="https://www.latex-project.org">
-    <img src="assets/images/tools/LaTex" alt="LaTeX" width="24" height="24" /></a>
+    <img src="assets/images/tools/LaTex.svg" alt="LaTeX" width="24" height="24" /></a>
   <a href="https://es.overleaf.com">
     <img src="assets/images/tools/Overleaf.png" color="white" alt="Overleaf" width="21" height="24" /></a>
   <a href="https://www.virtualbox.org">
@@ -130,7 +130,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://github.com">
     <img src="assets/images/tools/GitHub.svg" color="white" alt="GitHub" width="26" height="26" /></a>
   <a href="https://miro.com/en/">
-      <img src="assets/images/tools/Miro.svg" alt="Miro" width="23" height="23" /></a>
+      <img src="assets/images/tools/Miro.png" alt="Miro" width="23" height="23" /></a>
   <a href="https://www.figma.com">
     <img src="assets/images/tools/Figma.svg" alt="Figma" width="23" height="23" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office">
