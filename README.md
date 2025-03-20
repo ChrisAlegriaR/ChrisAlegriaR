@@ -138,7 +138,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
   <a href="https://www.notion.com">
     <img src="assets/images/tools/Notion.svg" alt="Notion" width="24" height="24" /></a>
   <a href="https://workspace.google.com/intl/es-419_mx/business/">
-    <img src="assets/images/Google Workspace.png" alt="Google Workspace" width="45" height="25" /></a>
+    <img src="assets/images/tools/Google Workspace.png" alt="Google Workspace" width="45" height="25" /></a>
 </p>
 <br>
 
