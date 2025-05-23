@@ -1,5 +1,5 @@
 <!-- Title And Intro Section -->
-<h2><img src="assets/gifs/greeting.gif" height="25px"> Hey There ,I'm Chris.</h2>
+<h2><img src="assets/gifs/Greeting.gif" height="25px"> Hey There ,I'm Chris.</h2>
 
 Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río
 ](https://utsjr.edu.mx/).
@@ -23,7 +23,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <ul>
   <li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
   <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
-  <li>🎶 My favorite bands and artist are   
+  <li>🎶 My favorite bands and artist are
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;">
        <img src="assets/images/bands and artists/Rammstein.png" width="86" alt="Rammstein Logo"/></a>,
     <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;">
@@ -147,14 +147,14 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 <h2>📈 GitHub Stats</h2>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ChrisAlegria&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegria&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegria&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
-<br>
 </p>
+<br>
+
 
 <!-- Personal Stats Section -->
+<img align='right' src='assets/gifs/Link_TOTK.gif' width='120'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
