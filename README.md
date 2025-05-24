@@ -154,7 +154,7 @@ Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a stu
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Link_TOTK.gif' width='120'>
+<img align='right' src='assets/gifs/Link_TOTK.gif' width='110'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
