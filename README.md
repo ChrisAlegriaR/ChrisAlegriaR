@@ -206,9 +206,11 @@ Windows                          ███████████████�
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21fdae4lll3yaxymukcfossty&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21fdae4lll3yaxymukcfossty&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)">
 </p>
-
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fdae4lll3yaxymukcfossty&count=5&width=350;">
+</p>
+<p align='center'>
+  <img align='center' src='assets/gifs/GitHub_Cat.gif' width='50'>
 </p>
 
 
