@@ -19,7 +19,7 @@
 <!-- Facts Section -->
 <h2>🍂 Facts About Me</h2>
 <ul>
-  <li>📚 I’m currently studing on <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
+  <li>🎓 I’m a recently graduated Engineer in Software Development and Management from <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
   <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
   <li>🎶 My favorite bands and artist are
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;">
