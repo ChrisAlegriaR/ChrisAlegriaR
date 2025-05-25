@@ -1,9 +1,7 @@
 <!-- Title And Intro Section -->
-<h2><img src="assets/gifs/Greeting.gif" height="25px"> Hey There ,I'm Chris.</h2>
+<h2><img src="assets/gifs/Greeting.gif" height="25px">&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&vCenter=true&width=435&height=21&lines=Hey+there%2C+I'm+Chris.++;It's+nice+to+see+you+here.++;I+hope+you+enjoy+my+work.++;Always+learning.+Always+improving.;Let%C2%B4s+build+something+awesome!" alt="Typing SVG" /></a></h2>
 
-Hello, it's a pleasure to see you here! My name is Chris Alegria, and I am a student of Software Development and Management Engineering at the [Technological University of San Juan del Río
-](https://utsjr.edu.mx/).
-
+🌌 Hello, it’s a pleasure to see you here! I’m Chris Alegría, a passionate and recently graduated Engineer in Software Development and Management from the [Technological University of San Juan del Río](https://utsjr.edu.mx/). 🎓. I love building efficient and scalable solutions — from web apps with React, Angular, and Node.js, to mobile apps with Flutter. 🪐 I’m always learning and exploring new technologies to improve my skills and deliver meaningful work. 🍃 Some tools and languages I’ve worked with include HTML5, CSS3, JavaScript, TypeScript, Python, Java, C#, Kotlin, SQL, and more. 🌿 I believe in the power of teamwork, clean code, and continuous growth. Let’s connect and build something amazing together! ☁️✨
 
 <!-- Social Media Section -->
 [![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
