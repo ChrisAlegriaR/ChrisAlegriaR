@@ -3,6 +3,7 @@
 
 🌌 Hello, it’s a pleasure to see you here! I’m Chris Alegría, a passionate and recently graduated Engineer in Software Development and Management from the [Technological University of San Juan del Río](https://utsjr.edu.mx/) 🎓. I love building efficient and scalable solutions — from web apps with React, Angular, and Node.js, to mobile apps with Flutter. 🪐 I’m always learning and exploring new technologies to improve my skills and deliver meaningful work 🌿. Some tools and languages I’ve worked with include HTML5, CSS3, JavaScript, TypeScript, Python, Java, C#, Kotlin, SQL, and more. I believe in the power of teamwork, clean code, and continuous growth. Let’s connect and build something amazing together! ☁️✨
 
+
 <!-- Social Media Section -->
 [![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
 [![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-3abd25?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
@@ -198,6 +199,7 @@ VSC                              ███████████████�
 Windows                          █████████████████████████  100%
 ```
 <br>
+
 
 <!-- Spotify Activity Section -->
 <h2>🎶 My Spotify Status and Activity</h2>
