@@ -142,6 +142,14 @@
 <br>
 
 
+<!-- Dality Quotes -->
+<!-- <h2>💭 Quote of the day</h2> -->
+<!-- <p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card">
+  </a>
+</p> -->
+
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
@@ -153,7 +161,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Link_TOTK.gif' width='110'>
+<img align='right' src='assets/gifs/Link_TOTK.gif' alt="Videogame Gif" width='110'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
