@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="assets/images/banner/Chris_Alegria_Banner.png" alt="Chris Alegria Banner"> 
+</p>
+
+
 <!-- Title And Intro Section -->
 <h2><img src="assets/gifs/Greeting.gif" height="25px">&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&weight=600&duration=3500&pause=1600&color=F7F7F7&vCenter=true&width=450&height=24&lines=Hey+There%2C+I'm+Chris.++;It's+Nice+To+See+You+Here.++;I+Hope+You+Enjoy+My+Work.++;Always+Learning.+Always+Improving.;Let%C2%B4s+Build+Something+Awesome!" alt="Typing SVG" /></a></h2>
 
