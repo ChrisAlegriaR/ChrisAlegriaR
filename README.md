@@ -147,14 +147,6 @@
 <br>
 
 
-<!-- Dality Quotes -->
-<!-- <h2>💭 Quote of the day</h2> -->
-<!-- <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card">
-  </a>
-</p> -->
-
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
@@ -221,6 +213,16 @@ Windows                          ███████████████�
 </p>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fdae4lll3yaxymukcfossty&count=5&width=350;">
+</p>
+<br>
+
+
+<!-- Dality Quotes -->
+<h2>💭 Quote of the Day</h2>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card">
+  </a>
 </p>
 <p align='center'>
   <img align='center' src='assets/gifs/GitHub_Cat.gif' width='50'>
