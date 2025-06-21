@@ -221,7 +221,7 @@ Windows                          ███████████████�
 <h2>💭 Quote of the Day</h2>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card"  height="133" width="570">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card"  height="133" height="auto">
   </a>
 </p>
 <p align='center'>
