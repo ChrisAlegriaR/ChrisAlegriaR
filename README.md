@@ -150,8 +150,8 @@
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ChrisAlegria&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegria&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=ChrisAlegria&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegria&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegria&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
 </p>
 <br>
@@ -221,7 +221,7 @@ Windows                          ███████████████�
 <h2>💭 Quote of the Day</h2>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card"  height="133" height="auto">
+    <img height="auto" width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card"  height="133" height="auto">
   </a>
 </p>
 <p align='center'>
