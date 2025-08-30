@@ -158,7 +158,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Hornet_HK.gif' alt="Videogame Gif" width='64'>
+<img align='right' src='assets/gifs/Hornet_HK.gif' alt="Videogame Gif" width='60'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
