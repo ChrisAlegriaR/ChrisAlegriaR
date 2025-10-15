@@ -43,7 +43,7 @@
 <br>
 
 
-<!-- Tools Section -->
+<!-- Languajes, Frameworks, Environments & Tools Section -->
 <h2>🚀 Languages, Frameworks, Environments and Tools I have used</h2>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
