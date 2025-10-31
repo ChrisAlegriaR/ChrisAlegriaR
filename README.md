@@ -11,12 +11,12 @@
 
 
 <!-- Social Media Section -->
-[![Linkedin Badge](https://img.shields.io/badge/-@ChrisAlegria-4E69C8?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
+[![Linkedin Badge](https://img.shields.io/badge/-@ChristianAlegriaRuiz-4E69C8?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/christianalegriaruiz/)](https://www.linkedin.com/in/christianalegriaruiz/)
 [![Spotify Badge](https://img.shields.io/badge/-@☢XGamer484-3abd25?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)](https://open.spotify.com/user/21fdae4lll3yaxymukcfossty?si=3f5ea53b25504a81)
 [![FaceBook Badge](https://img.shields.io/badge/-@christian.alegriar-0866ff?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/christian.alegriar/)](https://www.facebook.com/christian.alegriar/)
 [![Instagram Badge](https://img.shields.io/badge/-@christian.alegriar-d72a7e?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/christian.alegriar?igsh=YzljYTk1ODg3Zg==)](https://www.instagram.com/christian.alegriar?igsh=YzljYTk1ODg3Zg==)
 [![Threads Badge](https://img.shields.io/badge/-@christian.alegriar-B58500?style=flat-square&logo=Threads&logoColor=white&link=https:https://www.threads.net/@christian.alegriar)](https://www.threads.net/@christian.alegriar)
-[![X Badge](https://img.shields.io/badge/-@ChrisAlegria484-1F1F1F?style=flat-square&logo=X&logoColor=white&link=https:https://x.com/chrisalegria484)](https://x.com/chrisalegria484)
+[![X Badge](https://img.shields.io/badge/-@ChrisAlegriaR-1F1F1F?style=flat-square&logo=X&logoColor=white&link=https:https://x.com/ChrisAlegriaR)](https://x.com/ChrisAlegriaR)
 [![Discord Badge](https://img.shields.io/badge/-@xgamer484-5865f2?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/922658473748070430)](https://discordapp.com/users/922658473748070430)
 [![Steam Badge](https://img.shields.io/badge/-@☢XGamer484-0f2757?style=flat-square&logo=steam&logoColor=white&link=mailto:https://steamcommunity.com/id/XGamer484/)](https://steamcommunity.com/id/XGamer484/)
 [![Gmail Badge](https://img.shields.io/badge/-christian.alegriar@gmail.com-%23ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.alegriar@gmail.com)](mailto:christian.alegriar@gmail.com)
