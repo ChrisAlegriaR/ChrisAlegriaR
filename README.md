@@ -152,9 +152,9 @@
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=ChrisAlegria&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegria&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegria&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=ChrisAlegriaR&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAlegriaR&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegriaR&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
 </p>
 <br>
 
