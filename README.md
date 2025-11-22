@@ -160,7 +160,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Hornet_HK.gif' alt="Videogame Gif" width='60'>
+<img align='right' src='assets/gifs/Rimworld_Trumbo.gif' alt="Videogame Gif" width='60'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
@@ -183,8 +183,8 @@ Regional Mexicano                ██░░░░░░░░░░░░░�
 
 ```text
 🕹️ Gaming:
-Amnesia: The Bunker              ███████████████░░░░░░░░░░  60%
-RimWorld                         ████████░░░░░░░░░░░░░░░░░  30% 
+Rimworld                         ███████████████░░░░░░░░░░  60%
+Amnesia: The Bunker              ████████░░░░░░░░░░░░░░░░░  30% 
 Until Then                       ███░░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 
