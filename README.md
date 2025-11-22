@@ -160,7 +160,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Rimworld_Thrumbo.gif' alt="Videogame Gif" width='54'>
+<img align='right' src='assets/gifs/Rimworld_Thrumbo.gif' alt="Videogame Gif" width='50'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
