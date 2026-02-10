@@ -160,7 +160,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Ori_OATWOTW.gif' alt="Videogame Gif" width='83'>
+<img align='right' src='assets/gifs/Ori_OATWOTW.gif' alt="Videogame Gif" width='76'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
