@@ -44,7 +44,7 @@
 <br>
 
 
-<!-- Languajes, Frameworks, Environments & Tools Section -->
+<!-- Languages, Frameworks, Environments & Tools Section -->
 <h2>🚀 Languages, Frameworks, Environments and Tools I have used</h2>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
@@ -160,7 +160,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Rimworld_Thrumbo.gif' alt="Videogame Gif" width='50'>
+<img align='right' src='assets/gifs/Ori_OATWOTW.gif' alt="Videogame Gif" width='50'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
