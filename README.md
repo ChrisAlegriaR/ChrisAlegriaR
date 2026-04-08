@@ -113,6 +113,8 @@
     <img src="assets/images/tools/Xampp.png" alt="Xammp" width="22" height="22" /></a>
   <a href="https://firebase.google.com">
     <img src="assets/images/tools/Firebase.svg" alt="Firebase" width="23" height="23"/></a>
+  <a href="https://www.postman.com">
+    <img src="assets/images/tools/Postman.svg" alt="Postman" width="23" height="23"/></a>
   <a href="https://www.apache.org">
     <img src="assets/images/tools/Apache.svg" alt="Apache" width="23" height="23" /></a>
   <a href="https://www.latex-project.org">
@@ -121,6 +123,8 @@
     <img src="assets/images/tools/Overleaf.png" color="white" alt="Overleaf" width="21" height="24" /></a>
   <a href="https://www.virtualbox.org">
     <img src="assets/images/tools/VirtualBox.png" alt="VirtualBox" width="25" height="25" /></a>
+  <a href="https://www.docker.com">
+    <img src="assets/images/tools/Docker.svg" alt="Docker" width="26" height="26" /></a>
   <a href="https://www.blender.org">
     <img src="assets/images/tools/Blender.svg" color="white" alt="Blender" width="26" height="26" /></a>
   <a href="https://www.solidworks.com">
