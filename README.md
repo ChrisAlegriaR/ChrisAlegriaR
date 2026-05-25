@@ -30,6 +30,8 @@
   <li>🎓 I’m a recently graduated Engineer in Software Development and Management from <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
   <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
   <li>🎶 My favorite bands and artist are
+    <a href="https://www.michaeljackson.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="assets/images/bands and artists/Michael Jackson.png" width="43" alt="Michael Jackson Logo"/></a>,
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;">
        <img src="assets/images/bands and artists/Rammstein.png" width="86" alt="Rammstein Logo"/></a>,
     <a href="https://www.coldplay.com/" target="_blank" style="text-decoration: none; color: inherit;">
