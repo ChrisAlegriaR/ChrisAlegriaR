@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/images/banner/Chris_Alegria_Banner.png" alt="Chris Alegria Banner"> 
+  <img src="assets/images/banner/Chris Alegria Banner.png" alt="Chris Alegria Banner"> 
 </p>
 
 
@@ -29,7 +29,7 @@
 <ul>
   <li>🎓 I’m a recently graduated Engineer in Software Development and Management from <a href="https://www.utsjr.edu.mx/">UTSJR</a>.</li>
   <li>💖 I love <strong>programming</strong>,<strong> listen music</strong>,<strong> play video games</strong> and <strong>watch movies, series or anime.</strong></li>
-  <li>🎶 My favorite bands and artist are
+  <li>🎶 My favorite bands and artist are 
     <a href="https://www.michaeljackson.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="assets/images/bands and artists/Michael Jackson.png" width="43" alt="Michael Jackson Logo"/></a>,
      <a href="https://www.rammstein.de/" target="_blank" style="text-decoration: none; color: inherit;">
@@ -38,7 +38,8 @@
       <img src="assets/images/bands and artists/Coldplay.png" width="70" alt="Coldplay Logo"/></a>,
     <a href="https://www.queenonline.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="assets/images/bands and artists/Queen.png" width="40" alt="Queen Logo"/></a>, 
-    <strong>Los Plebes del Rancho</strong> and <strong>Alfredo Olivas</strong>.
+    <a href="https://www.jgmusic.com.mx/los-plebes-del-rancho-de-ariel-camacho" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="assets/images/bands and artists/Los Plebes Del Rancho De Ariel Camacho.png" width="31" alt="Los Plebes Del Rancho De Ariel Camacho"/></a> and <a href="https://alfredoolivastiendaoficial.com"><strong>Alfredo Olivas</strong></a>,
   <li>📝 I like to always learn new things and strive for perfection in what I do.</li>
   <li>🎉 My favorite videogame and anime are <strong>The Walking Dead: The Telltale Definitive Series</strong> and <strong>Kimetsu No Yaiba</strong>.  
   </li>
@@ -166,7 +167,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Ori_OATWOTW.gif' alt="Videogame Gif" width='72'>
+<img align='right' src='assets/gifs/Ori OATWOTW.gif' alt="Videogame Gif" width='72'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
@@ -236,7 +237,7 @@ Windows                          ███████████████�
   </a>
 </p>
 <p align='center'>
-  <img align='center' src='assets/gifs/GitHub_Cat.gif' width='50'>
+  <img align='center' src='assets/gifs/GitHub Cat.gif' width='50'>
 </p>
 
 
