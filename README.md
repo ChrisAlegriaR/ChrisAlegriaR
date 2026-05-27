@@ -167,7 +167,7 @@
 
 
 <!-- Personal Stats Section -->
-<img align='right' src='assets/gifs/Chicken Stardew Valley.gif' alt="Videogame Gif" width='45'>
+<img align='right' src='assets/gifs/Chicken Stardew Valley.gif' alt="Videogame Gif" width='55'>
 <h2>📊 My Monthly Stats</h2>
 
 ```text
