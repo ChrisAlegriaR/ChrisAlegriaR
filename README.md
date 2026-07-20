@@ -221,7 +221,7 @@ Windows                          ███████████████�
 <!-- Spotify Activity Section -->
 <h2>🎶 My Spotify Status and Activity</h2>
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21fdae4lll3yaxymukcfossty&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21fdae4lll3yaxymukcfossty&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fdae4lll3yaxymukcfossty&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </p>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fdae4lll3yaxymukcfossty&count=5&width=350;">
