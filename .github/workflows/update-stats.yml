@@ -38,15 +38,11 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Descargar Frase Horizontal Estable (Quotes)
-        run: |
-          mkdir -p profile
-          curl -s "https://vercel.app" -o profile/quote.svg
-
       - name: Guardar imágenes en el repositorio
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile
           git add profile/*.svg
           git commit -m "Update README cards [skip ci]" || exit 0
           git push
