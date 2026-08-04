@@ -232,7 +232,9 @@ Windows                          ███████████████�
 <!-- Dality Quotes -->
 <h2>💭 Quote of the Day</h2>
 <p align="center">
-  <img src="./profile/quote.svg?v=1" alt="Quotes Card" height="133">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card"  height="133" height="auto">
+  </a>
 </p>
 <p align='center'>
   <img align='center' src='assets/gifs/GitHub Cat.gif' width='50'>
