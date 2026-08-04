@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-       - name: Generar tarjeta de estadísticas
+      - name: Generar tarjeta de estadísticas
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -34,7 +34,7 @@ jobs:
       - name: Guardar imágenes en el repositorio
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@://github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p profile
           git add profile/*.svg
           git commit -m "Update README cards [skip ci]" || exit 0
