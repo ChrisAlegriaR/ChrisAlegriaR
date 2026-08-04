@@ -1,0 +1,41 @@
+name: Actualizar Tarjetas del README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta automáticamente todos los días a la medianoche
+  workflow_dispatch: # Te permite activar el robot manualmente cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Permiso para que el robot guarde las fotos en tu repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar tarjeta de estadísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generar tarjeta de lenguajes más usados
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Guardar imágenes en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@://github.com"
+          mkdir -p profile
+          git add profile/*.svg
+          git commit -m "Update README cards [skip ci]" || exit 0
+          git push
