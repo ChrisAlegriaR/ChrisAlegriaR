@@ -161,7 +161,7 @@
 <p align="center">
  <img width="auto" src="./profile/stats.svg">
   <img width="auto" src="./profile/top-langs.svg">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisAlegriaR&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
+  <img width="auto" src="./profile/streak.svg?v=1">
 </p>
 <br>
 
