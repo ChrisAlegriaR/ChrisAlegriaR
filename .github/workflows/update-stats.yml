@@ -38,7 +38,7 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Descargar Frase del Día Horizontal (Quotes)
+      - name: Descargar Frase Horizontal Estable (Quotes)
         run: |
           mkdir -p profile
           curl -s "https://vercel.app" -o profile/quote.svg
