@@ -1,4 +1,4 @@
-name: Actualizar Tarjetas del README
+yamlname: Actualizar Tarjetas del README
 
 on:
   schedule:
@@ -29,6 +29,13 @@ jobs:
           card: top-langs
           options: username=ChrisAlegriaR&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generar tarjeta de racha (Streak)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=ChrisAlegriaR&theme=tokyonight-duo&hide_border=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Guardar imágenes en el repositorio
