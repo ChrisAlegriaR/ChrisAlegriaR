@@ -1,4 +1,4 @@
-yamlname: Actualizar Tarjetas del README
+name: Actualizar Tarjetas del README
 
 on:
   schedule:
