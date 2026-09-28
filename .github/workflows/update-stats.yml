@@ -45,4 +45,5 @@ jobs:
           mkdir -p profile
           git add profile/*.svg
           git commit -m "Update README cards [skip ci]" || exit 0
+          git pull --rebase origin main        
           git push
