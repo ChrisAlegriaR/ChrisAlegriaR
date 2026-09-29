@@ -191,8 +191,8 @@ Regional Mexicano                █░░░░░░░░░░░░░░�
 
 ```text
 🕹️ Gaming:
-Berry bury berry                 ██████████░░░░░░░░░░░░░░░  40%
-Stardew Vallew                   ████████░░░░░░░░░░░░░░░░░  30% 
+Majora's Mask                    ██████████░░░░░░░░░░░░░░░  40%
+Terraria                         ████████░░░░░░░░░░░░░░░░░  30% 
 The Elder Scrolls V: Skyrim      ████████░░░░░░░░░░░░░░░░░  30%
 ```
 
